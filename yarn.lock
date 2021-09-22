@@ -984,6 +984,11 @@
     "@babel/types" "^7.3.3"
     vue-template-compiler "^2.6.10"
 
+"@dcloudio/uni-ui@^1.2.3":
+  version "1.4.4"
+  resolved "https://registry.yarnpkg.com/@dcloudio/uni-ui/-/uni-ui-1.4.4.tgz#2698186481df0a5ebd234090f87132c0b5761b90"
+  integrity sha512-vE5/MLtdVeCdYPTZDArj1klhrK2n+rTiyHF7JN3f5Z+8lTLOdEfz01Z8nFe5eqh6lyCjbGuInGPMacBnZzQ+gA==
+
 "@dcloudio/vue-cli-plugin-hbuilderx@^2.0.0-27920200618002":
   version "2.0.0-27920200618002"
   resolved "https://registry.npm.taobao.org/@dcloudio/vue-cli-plugin-hbuilderx/download/@dcloudio/vue-cli-plugin-hbuilderx-2.0.0-27920200618002.tgz#66ad69864ed36039bd6e05d095d3b3e51a4c9a2c"
@@ -9492,9 +9497,9 @@ timsort@^0.3.0:
   integrity sha1-QFQRqOfmM5/mTbmiNN4R3DHgK9Q=
 
 tmpl@1.0.x:
-  version "1.0.4"
-  resolved "https://registry.npm.taobao.org/tmpl/download/tmpl-1.0.4.tgz#23640dd7b42d00433911140820e5cf440e521dd1"
-  integrity sha1-I2QN17QtAEM5ERQIIOXPRA5SHdE=
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.5.tgz#8683e0b902bb9c20c4f726e3c0b69f36518c07cc"
+  integrity sha512-3f0uOEAQwIqGuWW2MVzYg8fV/QNnc/IpuJNG837rLuczAaLVHslWHZQj4IGiEl5Hs3kkbhwL9Ab7Hrsmuj+Smw==
 
 to-array@0.1.4:
   version "0.1.4"
