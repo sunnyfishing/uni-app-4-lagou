@@ -984,6 +984,11 @@
     "@babel/types" "^7.3.3"
     vue-template-compiler "^2.6.10"
 
+"@dcloudio/uni-ui@^1.2.3":
+  version "1.4.9"
+  resolved "https://registry.yarnpkg.com/@dcloudio/uni-ui/-/uni-ui-1.4.9.tgz#98827252c9a0d930bc9310e8162370a582ad1c1c"
+  integrity sha512-S4HcIUipswVysOzet8Z6YR8B77Frz4qvSmch1Aj7ddKWsD9Y55sEdRs7mjI32iqsXNXZeZtG05bgfEusDqQGtQ==
+
 "@dcloudio/vue-cli-plugin-hbuilderx@^2.0.0-27920200618002":
   version "2.0.0-27920200618002"
   resolved "https://registry.npm.taobao.org/@dcloudio/vue-cli-plugin-hbuilderx/download/@dcloudio/vue-cli-plugin-hbuilderx-2.0.0-27920200618002.tgz#66ad69864ed36039bd6e05d095d3b3e51a4c9a2c"
@@ -4575,9 +4580,9 @@ flyio@^0.6.2:
     request "^2.85.0"
 
 follow-redirects@^1.0.0:
-  version "1.12.1"
-  resolved "https://registry.npm.taobao.org/follow-redirects/download/follow-redirects-1.12.1.tgz?cache=0&sync_timestamp=1592518288042&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Ffollow-redirects%2Fdownload%2Ffollow-redirects-1.12.1.tgz#de54a6205311b93d60398ebc01cf7015682312b6"
-  integrity sha1-3lSmIFMRuT1gOY68Ac9wFWgjErY=
+  version "1.14.7"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.14.7.tgz#2004c02eb9436eee9a21446a6477debf17e81685"
+  integrity sha512-+hbxoLbFMbRKDwohX8GkTataGqO6Jb7jGwpAlwgy2bIz25XtRm7KEzJM76R1WiNT5SwZkX4Y75SwBolkpmE7iQ==
 
 for-in@^1.0.2:
   version "1.0.2"
